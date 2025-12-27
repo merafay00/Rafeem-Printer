@@ -1,0 +1,7 @@
+{
+  "name": "Rafeem Printer Business Navbar",
+  "description": "A feature-rich professional navigation bar for Rafeem Printer with integrated map access, WhatsApp support, theme toggling, and primary CTA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
