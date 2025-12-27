@@ -106,7 +106,7 @@ const Footer: React.FC<FooterProps> = ({ isDark, onLinkClick }) => {
               </li>
               <li className="flex items-center gap-4">
                 <Phone className={`h-5 w-5 ${isDark ? 'text-zinc-500' : 'text-slate-400'}`} />
-                <span className={`text-sm font-medium ${themeStyles.text}`}>+1 (555) 000-PRINT</span>
+                <span className={`text-sm font-medium ${themeStyles.text}`}>+92 332 3920344</span>
               </li>
               <li className="flex items-center gap-4">
                 <Mail className={`h-5 w-5 ${isDark ? 'text-zinc-500' : 'text-slate-400'}`} />
