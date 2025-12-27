@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect, useRef } from 'react';
 import Navbar from './components/Navbar';
 import OffCanvasMenu from './components/OffCanvasMenu';
@@ -557,7 +558,7 @@ const App: React.FC = () => {
                         </div>
                         <div>
                           <h6 className={`font-black text-sm uppercase tracking-widest mb-1 ${themeStyles.heading}`}>Call Us</h6>
-                          <p className={`text-sm font-medium ${themeStyles.paragraph}`}>+1 (555) 000-PRINT</p>
+                          <p className={`text-sm font-medium ${themeStyles.paragraph}`}>+92 332 3920344</p>
                         </div>
                       </div>
 
